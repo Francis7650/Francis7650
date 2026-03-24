@@ -9,10 +9,10 @@ Degree: Bachelor of Science in Computer Security and Forensics
 Email: Millianofranco@gmail.com
 Phone: +254-701910995
 **About Me**
-I am a passionate and dedicated second-year student at Kabarak University pursuing a degree in Computer Security and Forensics. My interest in computer security began during my high school years when I developed a fascination with how technology can be both a tool and a vulnerability. This curiosity has driven me to delve deeper into the field and pursue a career where I can contribute to making the digital world a safer place for everyone.
+I am a passionate and dedicated Final-year student at Kabarak University pursuing a degree in Computer Security and Forensics. AM also a graduate in Ethical hacking course sponsored by Cisco Cybershujaa. My interest in computer security began during my high school years when I developed a fascination with how technology can be both a tool and a vulnerability. This curiosity has driven me to delve deeper into the field and pursue a career where I can contribute to making the digital world a safer place for everyone.
 
 **Skills**
-Proficient in programming languages such as HTML, JavaScript,CSS, PHP and C++
+Proficient in programming languages such as HTML,JavaScript,CSS,Python,PHP and C++
 Understanding of network security principles and protocols
 Familiarity with cryptography techniques and algorithms
 Knowledge of digital forensics methodologies and tools
@@ -22,6 +22,9 @@ Developed a secure file encryption software using Python
 Conducted a research project on the effectiveness of intrusion detection systems
 Participated in a cybersecurity Capture The Flag (CTF) competition
 Created a network security audit tool as part of a group project
+Developed a Decentralised blockchain voting system
+Developed an SME AI coach for small enterprise businesses 
+
 **Interests**
 Ethical hacking and penetration testing
 Cybersecurity policy and governance
